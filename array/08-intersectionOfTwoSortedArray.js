@@ -44,6 +44,6 @@ function optimal(a, b) {
   return intersection;
 }
 let a = [1, 2, 2, 3, 3, 4, 5, 6];
-let b = [2, 3, 3, 5, 6, 6, 7];
+let b = [2, 3, 3, 5, 6, 6, 7, 8];
 
 console.log(brute(a, b));
